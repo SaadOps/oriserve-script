@@ -1,4 +1,3 @@
-Here's a well-structured README for the shell script:
 
 ---
 
